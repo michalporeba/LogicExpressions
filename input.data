@@ -1,0 +1,10 @@
+Alpha
+~A
+Alpha \/ Beta
+P /\ ~q
+A /\ B /\ C
+~(A /\ B)
+~(P/\Q)<=>~P\/~Q
+~(P /\ Q) <=> ~P \/ ~Q
+~(A) /\ B \/ C => D <=> E
+
